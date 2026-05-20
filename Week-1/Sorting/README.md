@@ -53,7 +53,7 @@ There are mainly 4 types of basic sorting Algorithms
 
 ### 2. Quick Sort
 * [Theory](https://www.geeksforgeeks.org/dsa/quick-sort-algorithm/)
-* [T.C and S.C Analysis](https://www.geeksforgeeks.org/dsa/)time-and-space-complexity-analysis-of-quick-sort/
+* [T.C and S.C Analysis](https://www.geeksforgeeks.org/dsa/time-and-space-complexity-analysis-of-quick-sort/)
 
 Mainly All the Important Sorting Algos are covered above Below are some Extra sorting Algorithms for your learning:
 * [Cycle Sort](https://www.geeksforgeeks.org/dsa/cycle-sort/)
