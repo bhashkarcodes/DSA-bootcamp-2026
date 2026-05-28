@@ -1,6 +1,6 @@
 # **Two Pointers**
 
-> 📌 **Week 1 — Study Material**
+> 📌 **Week 2 — Study Material**
 
 ---
 
