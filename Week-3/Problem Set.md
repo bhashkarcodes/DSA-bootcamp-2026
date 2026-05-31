@@ -81,7 +81,7 @@ NOTE - All the Selected problems are the most commonly occurring and highly logi
 
 ## Divide and Conquer -
 
-* Merge and Quick Sort Practice
+* Merge and Quick Sort Practice:-
 * [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envld=divide-and-conquer)
 * [Skyline-problem](https://leetcode.com/problems/the-skyline-problem/description/)
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/?envType=problem-list-v2&envId=divide-and-conquer)
