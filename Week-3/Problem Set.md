@@ -84,3 +84,13 @@ NOTE - All the Selected problems are the most commonly occurring and highly logi
 * Merge and Quick Sort Practice
 * [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envld=divide-and-conquer)
 * [Skyline-problem](https://leetcode.com/problems/the-skyline-problem/description/)
+
+ # Addition Resources - 
+
+## Sliding Window Pattern - 
+* https://www.geeksforgeeks.org/dsa/top-problems-on-sliding-window-technique-for-interviews/
+* http://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples
+
+## Recursion - 
+* https://samuell.hashnode.dev/advanced-recursion-techniques
+* https://www.geeksforgeeks.org/dsa/top-50-interview-problems-on-recursion-algorithm/
