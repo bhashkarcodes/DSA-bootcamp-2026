@@ -84,6 +84,8 @@ NOTE - All the Selected problems are the most commonly occurring and highly logi
 * Merge and Quick Sort Practice
 * [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envld=divide-and-conquer)
 * [Skyline-problem](https://leetcode.com/problems/the-skyline-problem/description/)
+* [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/?envType=problem-list-v2&envId=divide-and-conquer)
+* [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/?envType=problem-list-v2&envId=divide-and-conquer)
 * Binary Search Practice:-
 * [Search insert position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search)
 * [Search in a rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=binary-search)
