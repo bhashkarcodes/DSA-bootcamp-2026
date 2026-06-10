@@ -31,11 +31,18 @@ A doubly linked list extends the singly linked list by adding a second pointer. 
 
 This allows traversal in both directions.
 
+![](images/image2.png)
+
 ### 3. Circular Linked List
 
 **Circular Singly:** Each node has a single `next` pointer, but unlike a singly linked list, the last node points back to the first node, forming a closed loop. Traversal is possible in one direction only.
 
 **Circular Doubly:** Each node has both `prev` and `next` pointers. The last node's `next` points to the first node, and the first node's `prev` points to the last node, enabling bidirectional circular traversal.
+
+![](images/image3.png)
+
+
+![](images/image4.png)
 
 ---
 
