@@ -40,82 +40,62 @@ Good Luck!
 
 ## Linked List
 
+
 ### Easy
-1. **Reverse a Linked List** 
-   https://leetcode.com/problems/reverse-linked-list/
-2. **Middle of the Linked List** 
-   https://leetcode.com/problems/middle-of-the-linked-list/
+1. **[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)** 
+2. **[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)** 
 
 ### Medium
-3. **Linked List Cycle II** 
-   https://leetcode.com/problems/linked-list-cycle-ii/
-4. **Remove Nth Node From End of List**
-   https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-5. **Reorder List**
-   https://leetcode.com/problems/reorder-list/
+3. **[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)** 
+4. **[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)** 
+5. **[Reorder List](https://leetcode.com/problems/reorder-list/)** 
 
 ### Hard
-6. **Reverse Nodes in k-Group** 
-   https://leetcode.com/problems/reverse-nodes-in-k-group/
-7. **Merge k Sorted Lists**  
-   https://leetcode.com/problems/merge-k-sorted-lists/
+6. **[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)** 
+7. **[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)** 
 
----
+
 
 ## Stack / Queue
 
+
 ### Easy
-1. **Valid Parentheses** 
-   https://leetcode.com/problems/valid-parentheses/
-2. **Implement Queue using Stacks**
-   https://leetcode.com/problems/implement-queue-using-stacks/
+1. **[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)** 
+2. **[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)** 
 
 ### Medium
-3. **Min Stack**  
-   https://leetcode.com/problems/min-stack/
-4. **Daily Temperatures** 
-   https://leetcode.com/problems/daily-temperatures/
-5. **Design Circular Queue** 
-   https://leetcode.com/problems/design-circular-queue/
+3. **[Min Stack](https://leetcode.com/problems/min-stack/)**
+4. **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)** 
+5. **[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)**  
 
 ### Hard
-6. **Largest Rectangle in Histogram**
-   https://leetcode.com/problems/largest-rectangle-in-histogram/
-7. **Trapping Rain Water** 
-   https://leetcode.com/problems/trapping-rain-water/
+6. **[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)**  
+7. **[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)**  
+
 
 
 ## Deque
 
 ### Medium
-1. **Design Circular Deque**  
-   https://leetcode.com/problems/design-circular-deque/
-2. **Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit** 
-   https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+1. **[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)** 
+2. **[Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)** 
 
 ### Hard
-3. **Sliding Window Maximum** 
-   https://leetcode.com/problems/sliding-window-maximum/
-4. **Max Value of Equation**
-   https://leetcode.com/problems/max-value-of-equation/
+3. **[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)** 
+4. **[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)** 
 
+---
 
 ## Backtracking
 
+
 ### Medium
-1. **Subsets**   
-   https://leetcode.com/problems/subsets/
-2. **Permutations** 
-   https://leetcode.com/problems/permutations/
-3. **Combination Sum** 
-   https://leetcode.com/problems/combination-sum/
-4. **Word Search**  
-   https://leetcode.com/problems/word-search/
+1. **[Subsets](https://leetcode.com/problems/subsets/)**
+2. **[Permutations](https://leetcode.com/problems/permutations/)** 
+3. **[Combination Sum](https://leetcode.com/problems/combination-sum/)** 
+4. **[Word Search](https://leetcode.com/problems/word-search/)** 
 
 ### Hard
-5. **N-Queens** 
-   https://leetcode.com/problems/n-queens/
-6. **Sudoku Solver** 
-   https://leetcode.com/problems/sudoku-solver/
-7. **Palindrome Partitioning**
-   https://leetcode.com/problems/palindrome-partitioning/
+5. **[N-Queens](https://leetcode.com/problems/n-queens/)** 
+6. **[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)** 
+7. **[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)** 
