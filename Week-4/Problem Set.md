@@ -34,94 +34,88 @@ Good Luck!
 
 ***
 
-> **NOTE** - All the Selected problems are the most commonly occurring and highly logical problems. Spend a sufficient amount of time on them to build a strong foundation in each topic. Then, if further time permits, you can go through additional problems from resources.
+ **NOTE** - All the Selected problems are the most commonly occurring and highly logical problems. Spend a sufficient amount of time on them to build a strong foundation in each topic. Then, if further time permits, you can go through additional problems from resources.
 
----
+
 
 ## Linked List
-*Focus: Pointer manipulation, multi-pointer strategies, structural adjustments, and sublist operations.*
 
 ### Easy
-1. **Reverse a Linked List** *Requires:* Iterative tracking of previous, current, and next pointers to reverse link directions in-place without extra memory.  
+1. **Reverse a Linked List** 
    https://leetcode.com/problems/reverse-linked-list/
-2. **Middle of the Linked List** *Requires:* Utilizing a two-pointer technique (slow and fast) to locate the midpoint node in a single traversal pass.  
+2. **Middle of the Linked List** 
    https://leetcode.com/problems/middle-of-the-linked-list/
 
 ### Medium
-3. **Linked List Cycle II** *Requires:* Detecting a loop using Floyd’s Cycle-Finding Algorithm and mathematically finding the absolute starting node of the cycle.  
+3. **Linked List Cycle II** 
    https://leetcode.com/problems/linked-list-cycle-ii/
-4. **Remove Nth Node From End of List** *Requires:* Maintaining a specific look-ahead spacing gap between two pointers to isolate and delete target nodes cleanly.  
+4. **Remove Nth Node From End of List**
    https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-5. **Reorder List** *Requires:* Combining core link steps: extracting the middle, reversing the latter partition, and weaving nodes sequentially.  
+5. **Reorder List**
    https://leetcode.com/problems/reorder-list/
 
 ### Hard
-6. **Reverse Nodes in k-Group** *Requires:* Modifying linked nodes in distinct structural blocks while keeping cross-group segment pointers unbroken.  
+6. **Reverse Nodes in k-Group** 
    https://leetcode.com/problems/reverse-nodes-in-k-group/
-7. **Merge k Sorted Lists** *Requires:* Combining collection structures cleanly using empirical divide-and-conquer logic or an optimized custom heap structure.  
+7. **Merge k Sorted Lists**  
    https://leetcode.com/problems/merge-k-sorted-lists/
 
 ---
 
 ## Stack / Queue
-*Focus: Linear order restrictions, resource parsing algorithms, tracking structural metrics, and monotonic behaviors.*
 
 ### Easy
-1. **Valid Parentheses** *Requires:* Pushing open tokens onto an operational stack and checking strict symmetry constraints when popping.  
+1. **Valid Parentheses** 
    https://leetcode.com/problems/valid-parentheses/
-2. **Implement Queue using Stacks** *Requires:* Emulating standard FIFO access mechanics using two distinct LIFO storage components efficiently.  
+2. **Implement Queue using Stacks**
    https://leetcode.com/problems/implement-queue-using-stacks/
 
 ### Medium
-3. **Min Stack** *Requires:* Preserving access to structural minimum values alongside the primary element stack within continuous O(1) boundaries.  
+3. **Min Stack**  
    https://leetcode.com/problems/min-stack/
-4. **Daily Temperatures** *Requires:* Standardizing an index-based monotonic stack approach to dynamically seek the nearest greater element ahead.  
+4. **Daily Temperatures** 
    https://leetcode.com/problems/daily-temperatures/
-5. **Design Circular Queue** *Requires:* Engineering a fixed spatial data ring buffer optimizing memory write boundaries using wrap-around modulo paths.  
+5. **Design Circular Queue** 
    https://leetcode.com/problems/design-circular-queue/
 
 ### Hard
-6. **Largest Rectangle in Histogram** *Requires:* Deploying a monotonic layout to calculate the bounding left and right minimal value steps for any single node profile.  
+6. **Largest Rectangle in Histogram**
    https://leetcode.com/problems/largest-rectangle-in-histogram/
-7. **Trapping Rain Water** *Requires:* Accumulating localized surface elevations using an tracking boundary stack or contrasting array pointer configurations.  
+7. **Trapping Rain Water** 
    https://leetcode.com/problems/trapping-rain-water/
 
----
 
 ## Deque
-*Focus: Double-ended element processing, sliding boundaries, and persistent range calculations.*
 
 ### Medium
-1. **Design Circular Deque** *Requires:* Coding explicit pointer links to accommodate continuous entry and removal operations smoothly from both terminals.  
+1. **Design Circular Deque**  
    https://leetcode.com/problems/design-circular-deque/
-2. **Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit** *Requires:* Balancing dual monotonic deques concurrently to track real-time extreme ranges across flexible dynamic sliding spans.  
+2. **Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit** 
    https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 
 ### Hard
-3. **Sliding Window Maximum** *Requires:* Processing array ranges by enforcing strict decreasing value structures within an active double-ended queue.  
+3. **Sliding Window Maximum** 
    https://leetcode.com/problems/sliding-window-maximum/
-4. **Max Value of Equation** *Requires:* Converting relational functions mathematically to isolate structural bounds using single-pass index optimization steps.  
+4. **Max Value of Equation**
    https://leetcode.com/problems/max-value-of-equation/
 
----
 
 ## Backtracking
-*Focus: Permutation paths, constraint trees, deep state manipulation, and early recursion branch cutting.*
 
 ### Medium
-1. **Subsets** *Requires:* Exploring choice trees systematically by deciding either to preserve or reject individual items at every junction.  
+1. **Subsets**   
    https://leetcode.com/problems/subsets/
-2. **Permutations** *Requires:* Creating every distinct sequence arrangement variation through explicit node swaps or boolean state tables.  
+2. **Permutations** 
    https://leetcode.com/problems/permutations/
-3. **Combination Sum** *Requires:* Navigating multi-choice recursive states where single elements can be selected infinitely until limits are passed.  
+3. **Combination Sum** 
    https://leetcode.com/problems/combination-sum/
-4. **Word Search** *Requires:* Executing a matrix grid search across multiple directions while tracking currently utilized cells to avoid trace loops.  
+4. **Word Search**  
    https://leetcode.com/problems/word-search/
 
 ### Hard
-5. **N-Queens** *Requires:* Placing components onto a dynamic matrix grid while handling structural vector constraints across rows, columns, and diagonals.  
+5. **N-Queens** 
    https://leetcode.com/problems/n-queens/
-6. **Sudoku Solver** *Requires:* Performing a depth-first empty cell scan to fill matrix fields while reverting incorrect guesses via state backtracking.  
+6. **Sudoku Solver** 
    https://leetcode.com/problems/sudoku-solver/
-7. **Palindrome Partitioning** *Requires:* Splitting string segments systematically and using predictive checks to drop non-symmetric branch expansions immediately.  
+7. **Palindrome Partitioning**
    https://leetcode.com/problems/palindrome-partitioning/
