@@ -49,12 +49,8 @@ NOTE - All the Selected problems are the most commonly occurring and highly logi
 2) [Reversing Queue](https://www.geeksforgeeks.org/dsa/reversing-queue-using-recursion/) (can attempt after queue)
 3) [Longest plaindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description)
 4) [Word Search](https://leetcode.com/problems/word-search/description/)
-
-### Hard -
-1) [Sudoku solver](https://leetcode.com/problems/sudoku-solver/description/)
-2) [N Queens](https://leetcode.com/problems/n-queens/)
-3) [Expression add operator](https://leetcode.com/problems/expression-add-operators/description/)
-4) [M coloring problems](https://www.geeksforgeeks.org/dsa/m-coloring-problem/)
+5) [Subset II](https://leetcode.com/problems/subsets-ii/description/)
+6) [Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 
 ---
 
